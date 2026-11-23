@@ -1,0 +1,6 @@
+# robots.txt for jdecorations.in
+
+User-agent: *
+Allow: /
+
+Sitemap: https://jdecorations.in/sitemap.xml
